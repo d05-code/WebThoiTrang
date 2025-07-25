@@ -11,11 +11,11 @@
 	                    	<img src="public/images/logo_tvd.png" alt="TD SHOP" style="max-width: 245px;"> 
 	                	</a>
 	              </div>
-	              <p>Shop Thời Trang TDShop chúng tôi không đơn thuần là cái đẹp thời trang, chúng tôi khao khát kiến tạo những giá trị xã hội nhân văn, trở thành một lối sống để đồng hành cùng phụ nữ trên hành trình thấu cảm vẻ đẹp của chính mình.</p>
+	              <p>Shop Thời Trang TVDShop chúng tôi không đơn thuần là cái đẹp thời trang, chúng tôi khao khát kiến tạo những giá trị xã hội nhân văn, trở thành một lối sống để đồng hành cùng phụ nữ trên hành trình thấu cảm vẻ đẹp của chính mình.</p>
 	              	<div style="line-height: 2;">
-		                <i class="fa fa-location-arrow" style="width: 15px; text-align: center; margin-right: 4px; color: #676767;"></i> An Khê, Gia Lai<br>
+		                <i class="fa fa-location-arrow" style="width: 15px; text-align: center; margin-right: 4px; color: #676767;"></i> THANH TRÌ,HÀ NỘI<br>
 		                <i class="fa fa-mobile" style="width: 15px; text-align: center; margin-right: 4px; color: #676767;"></i> Điện thoại: 0123.456.789<br>
-		                <i class="fa fa-envelope-o" style="width: 15px; text-align: center; margin-right: 4px; color: #676767;"></i> Email: TDshop@gmail.com
+		                <i class="fa fa-envelope-o" style="width: 15px; text-align: center; margin-right: 4px; color: #676767;"></i> Email: TVDshop@gmail.com
 	            	</div>
 	            </div>
 	        </section>

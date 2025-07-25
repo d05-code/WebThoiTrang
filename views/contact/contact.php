@@ -21,9 +21,9 @@
 					<div class="row">
 						<h3>Liên hệ với chúng tôi</h3>
 						<div class="infos-contact">
-                	<p><i class="fa fa-location-arrow" aria-hidden="true"></i> <span class="text">An Khê, Gia Lai</span></p>
+                	<p><i class="fa fa-location-arrow" aria-hidden="true"></i> <span class="text">THANH TRÌ,HÀ NỘI</span></p>
                     <p><i class="fa fa-phone" aria-hidden="true"></i> <span class="text">0123.456.789</span></p>
-                    <p><i class="fa fa-envelope-o" aria-hidden="true"></i> <span class="text">TDshop@gmail.com</span></p>
+                    <p><i class="fa fa-envelope-o" aria-hidden="true"></i> <span class="text">TVDshop@gmail.com</span></p>
 					</div>
 					<form action="?act=lienhe&xuli=sent" method="post">
 						<p><label> Tên của bạn (bắt buộc)<br />

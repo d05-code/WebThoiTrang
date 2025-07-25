@@ -51,8 +51,8 @@
 		<div class="col-4">
 			<div class="card card_gioithieu" >
 				<img src="public/images/tintuc2.jpg" alt="card background" class="card-img">
-                <img src="public/images/profile_dien.jpg" alt="profile image" class="profile-img">
-                <h1>Nguyễn Minh Diện</h1>
+                <img src="public/images/a1.jpg" alt="profile image" class="profile-img">
+                <h1>Trần Văn Đạt</h1>
                 
                 <p class="about">
                     Chúng ta có thể gặp nhiều thất bại nhưng chúng ta không được bị đánh bại.
@@ -69,8 +69,8 @@
     	<div class="col-4">
 			<div class="card card_gioithieu" >
 				<img src="public/images/tintuc2.jpg" alt="card background" class="card-img">
-                <img src="public/images/profile_thu.jpg" alt="profile image" class="profile-img">
-                <h1>Đặng Ngọc Thư</h1>
+                <img src="public/images/a2.jpg" alt="profile image" class="profile-img">
+                <h1>Cristiano Ronaldo</h1>
                 
                 <p class="about">
                     Nếu bạn muốn trở nên kỳ quặc khác người, hãy tự tin khi làm điều đó.
@@ -87,8 +87,8 @@
     	<div class="col-4">
 			<div class="card card_gioithieu" >
 				<img src="public/images/tintuc2.jpg" alt="card background" class="card-img">
-                <img src="public/images/tintuc3.jpg" alt="profile image" class="profile-img">
-                <h1>Thị Vi</h1>
+                <img src="public/images/a3.jpg" alt="profile image" class="profile-img">
+                <h1>JACK 97</h1>
                 
                 <p class="about">
                     Nỗi đau bạn cảm thấy hôm nay là sức mạnh bạn sẽ cảm thấy vào ngày mai.

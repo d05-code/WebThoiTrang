@@ -103,7 +103,7 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/Mac-ao-ngan-voi-quan.jpg" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>5 <br> TH11</span>
+	  						<span>6 <br> TH11</span>
 	  						
 	  					</div>
   						<div class="card-body">

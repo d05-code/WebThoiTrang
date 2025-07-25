@@ -94,10 +94,10 @@
                                 <a href="tel:0123.456.789"><i class="fa fa-phone" aria-hidden="true"></i> 0123.456.789</a>
                             </li>
                             <li class="menu-item menu-item-type-custom menu-item-2185 item-level-0 menu-item-design-default item-event-hover">
-                                <a href="mailto:0123.456.789"><i class="fa fa-envelope-o" aria-hidden="true"></i> TDshop@gmail.com</a>
+                                <a href="mailto:0123.456.789"><i class="fa fa-envelope-o" aria-hidden="true"></i> TVDshop@gmail.com</a>
                             </li>
                             <li class="menu-item menu-item-type-custom menu-item-2185 item-level-0 menu-item-design-default item-event-hover">
-                                <a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i> An Khê, Gia Lai</a>
+                                <a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i> Tây Hồ,Hà Nội</a>
                             </li>
                         </ul>
                     </div>
