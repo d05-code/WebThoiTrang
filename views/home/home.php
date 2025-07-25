@@ -284,7 +284,7 @@
 			    			<div class="card card_tintuc" >
 			  					<img src="public/images/tintuc1.png" class="card-img-top img_tintuc" alt="...">
 			  					<div class="day_tintuc">
-			  						<span>24 <br> TH8</span>
+			  						<span>20 <br> TH7</span>
 			  						
 			  					</div>
 		  						<div class="card-body">
@@ -297,7 +297,7 @@
 											  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 											</svg>
 								    	</span>
-								    	Minh Diện
+								    	Trần Đạt
 								    </p>
 								    <p class="card-text">
 								    	Thời trang luôn được biết đến là một trong những ngành hàng kinh doanh chiếm thị phần lớn nhất hiện nay bởi nhu cầu cũng như xu hướng thay đổi từng ngày...
@@ -310,7 +310,7 @@
 			    			<div class="card card_tintuc" >
 			  					<img src="public/images/tintuc2.jpg" class="card-img-top img_tintuc" alt="...">
 			  					<div class="day_tintuc">
-			  						<span>24 <br> TH8</span>
+			  						<span>21 <br> TH7</span>
 			  						
 			  					</div>
 		  						<div class="card-body">
@@ -323,7 +323,7 @@
 											  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 											</svg>
 								    	</span>
-								    	Minh Diện
+								    	Trần Đạt
 								    </p>
 								    <p class="card-text">
 								    	Những đôi giày có tông màu nude nhẹ nhàng phù hợp với chị em theo đuổi phong cách nữ tính. Gam màu trung tính dễ phối, có thể kết hợp cùng mọi màu sắc...
@@ -336,7 +336,7 @@
 			    			<div class="card card_tintuc" >
 			  					<img src="public/images/tintuc3.jpg" class="card-img-top img_tintuc" alt="...">
 			  					<div class="day_tintuc">
-			  						<span>24 <br> TH8</span>
+			  						<span>22 <br> TH7</span>
 			  						
 			  					</div>
 		  						<div class="card-body">
@@ -349,7 +349,7 @@
 											  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 											</svg>
 								    	</span>
-								    	Minh Diện
+								    	Trần Đạt
 								    </p>
 								    <p class="card-text">
 								    	Với ngoại hình xinh xắn, giọng nói thu hút và cách truyền đạt dí dỏm, cô giáo 9X này dường như phá bỏ mọi kỷ lục ở các lớp học livestream từng có tại Việt...

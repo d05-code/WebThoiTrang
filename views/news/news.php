@@ -18,7 +18,7 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tintuc1.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>24 <br> TH8</span>
+	  						<span>20 <br> TH7</span>
 	  						
 	  					</div>
   						<div class="card-body">
@@ -31,7 +31,7 @@
 									  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 									</svg>
 						    	</span>
-						    	Minh Diện
+						    	Trần Đạt
 						    </p>
 						    <p class="card-text">
 						    	Thời trang luôn được biết đến là một trong những ngành hàng kinh doanh chiếm thị phần lớn nhất hiện nay bởi nhu cầu cũng như xu hướng thay đổi từng ngày...
@@ -44,7 +44,7 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tintuc2.jpg" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>24 <br> TH8</span>
+	  						<span>21 <br> TH7</span>
 	  						
 	  					</div>
   						<div class="card-body">
@@ -57,7 +57,7 @@
 									  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 									</svg>
 						    	</span>
-						    	Minh Diện
+						    	Trần Đạt
 						    </p>
 						    <p class="card-text">
 						    	Những đôi giày có tông màu nude nhẹ nhàng phù hợp với chị em theo đuổi phong cách nữ tính. Gam màu trung tính dễ phối, có thể kết hợp cùng mọi màu sắc...
@@ -70,7 +70,7 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tintuc3.jpg" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>24 <br> TH8</span>
+	  						<span>22 <br> TH7</span>
 	  						
 	  					</div>
   						<div class="card-body">
@@ -83,7 +83,7 @@
 									  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 									</svg>
 						    	</span>
-						    	Minh Diện
+						    	Trần Đạt
 						    </p>
 						    <p class="card-text">
 						    	Với ngoại hình xinh xắn, giọng nói thu hút và cách truyền đạt dí dỏm, cô giáo 9X này dường như phá bỏ mọi kỷ lục ở các lớp học livestream từng có tại Việt...
@@ -103,7 +103,7 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/Mac-ao-ngan-voi-quan.jpg" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>6 <br> TH11</span>
+	  						<span>23 <br> TH7</span>
 	  						
 	  					</div>
   						<div class="card-body">
@@ -116,7 +116,7 @@
 									  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 									</svg>
 						    	</span>
-						    	Minh Diện
+						    	Trần Đạt
 						    </p>
 						    <p class="card-text">
 						    	Diện quần ngắn lộ túi kết hợp áo quây đi mua hoa quả, cô gái khoe khéo "điểm vàng" cơ thể hấp dẫn ánh nhìn...
@@ -129,7 +129,7 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/tramanh.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>24 <br> TH8</span>
+	  						<span>24 <br> TH7</span>
 	  						
 	  					</div>
   						<div class="card-body">
@@ -142,7 +142,7 @@
 									  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 									</svg>
 						    	</span>
-						    	Minh Diện
+						    	Trần Đạt
 						    </p>
 						    <p class="card-text">
 						    	Kỳ Duyên, Trâm Anh “áp đảo” mọi khách mời tiệc cưới vì chiếc váy xẻ sâu hun hút...
@@ -155,7 +155,7 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/cogiaomacdogoicam.png" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>24 <br> TH8</span>
+	  						<span>25 <br> TH7</span>
 	  						
 	  					</div>
   						<div class="card-body">
@@ -168,7 +168,7 @@
 									  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 									</svg>
 						    	</span>
-						    	Minh Diện
+						    	Trần Đạt
 						    </p>
 						    <p class="card-text">
 						    	Mới đây, trào lưu đạp xe quanh hồ Tây được nhiều chị em hưởng ứng nhiệt tình. Nhiều cô gái thu hút sự chú ý không kém khi diện quần bó, ngắn tập thể dục...
@@ -187,7 +187,7 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/hotgirlduocpham.jpg" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>24 <br> TH8</span>
+	  						<span>26 <br> TH7</span>
 	  						
 	  					</div>
   						<div class="card-body">
@@ -200,7 +200,7 @@
 									  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 									</svg>
 						    	</span>
-						    	Minh Diện
+						    	Trần Đạt
 						    </p>
 						    <p class="card-text">
 						    	Seo Yoo A là "hot girl dược phẩm" được nhiều người biết đến trên mạng xã hội vì từng kinh doanh mặt hàng này. Không chỉ thế, cô còn là chủ của một thương hiệu may mặc riêng...
@@ -213,7 +213,7 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/mynuhangchau.jpg" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>24 <br> TH8</span>
+	  						<span>27 <br> TH7</span>
 	  						
 	  					</div>
   						<div class="card-body">
@@ -226,7 +226,7 @@
 									  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 									</svg>
 						    	</span>
-						    	Minh Diện
++						    	Trần Đạt
 						    </p>
 						    <p class="card-text">
 						    	Hot girl Hàng Châu chuộng mốt skinny jean "siêu bó", tạo cảm giác như "dính liền" trên da mà tôn dáng hiệu quả...
@@ -239,7 +239,7 @@
 	    			<div class="card card_tintuc" >
 	  					<img src="public/images/duuyen.jpg" class="card-img-top img_tintuc" alt="...">
 	  					<div class="day_tintuc">
-	  						<span>24 <br> TH8</span>
+	  						<span>28 <br> TH7</span>
 	  						
 	  					</div>
   						<div class="card-body">
@@ -252,7 +252,7 @@
 									  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
 									</svg>
 						    	</span>
-						    	Minh Diện
+						    	Trần Đạt
 						    </p>
 						    <p class="card-text">
 						    	Du Uyên sinh năm 1993,  quê Thanh Hóa, nổi tiếng trong làng nhạc Việt với những ca khúc kết hợp với bạn trai cũ - Đạt G: Buông bàn tay thật nhanh, Về, Gói xôi vội và Đừng lo...
