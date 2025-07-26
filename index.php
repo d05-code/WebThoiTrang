@@ -228,6 +228,6 @@ switch ($mod) {
         require_once('Controllers/AboutController.php');
         $controller_obj = new AboutController();
         $controller_obj->list();
-        break;
+        break
 
 }
