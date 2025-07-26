@@ -10,7 +10,7 @@
 
     define('DB_PASS',"");
 
-    define('DB_NAME',"tvdshop");
+    define('DB_NAME',"tvdshoppp");
 
 - Đối với các trang Clients vào thư mục : Models\connection.php 
 
@@ -22,4 +22,4 @@
   
   $password =""; 
   
-  $db_name ="tvdshop";
+  $db_name ="tvdshoppp";
